@@ -12,11 +12,11 @@ public class in1 {
             System.out.println("the string is: "+s);
         }
 
-public void display()
+        public void display()
         {
         System.out.println("the sum is"+sum);
         }
-public static void main(String args[])
+        public static void main(String args[])
         {
         in1 a= new in1();
         a.calc(10,20);
@@ -24,7 +24,7 @@ public static void main(String args[])
         a.display();
         //a.rr();
          }
-        }
+}
         //inheritance
 //class in2 extends in1 {
     //public  void rr()
